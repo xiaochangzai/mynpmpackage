@@ -1,0 +1,28 @@
+{
+  "name": "xiaochangzaipp",
+  "version": "1.0.0",
+  "description": "我的npm包测试版本",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaochangzai/mynpmpackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "sunJsona@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaochangzai/mynpmpackage/issues"
+  },
+  "homepage": "https://github.com/xiaochangzai/mynpmpackage#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
